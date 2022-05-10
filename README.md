@@ -1,3 +1,3 @@
 Adaptive
-Hamburger menu
+Hiding menu
 Interactive picters
