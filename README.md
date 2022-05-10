@@ -1,1 +1,3 @@
-Need to add adaptive
+Adaptive
+Hamburger menu
+Interactive picters
